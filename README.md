@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @LucyK222
-- 👀 I’m interested in Minecraft, game design ...
-- 🌱 I’m currently learning making a mod in Minecraft.
-- 💞️ I’m looking to collaborate on anything! I would love to learn!
+- 👀 I’m interested in data science in biology (microbiome, Alzheimers etc.) and music.
+- 🌱 I’m currently learning creating a mod in Minecraft.
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: jaren.kang@mail.utoronto.ca
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: never learned computer science before university, but my grade is quite decent.
+- ⚡ Fun fact: She does not have a fun fact.
 
 <!---
 LucyK222/LucyK222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
